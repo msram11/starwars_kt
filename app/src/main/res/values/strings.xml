@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="search_empty_message">Please enter your favorite STAR WARS HERO!</string>
+    <string name="error_message">Oops, please try searching again!</string>
+</resources>
